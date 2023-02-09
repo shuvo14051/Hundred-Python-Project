@@ -18,4 +18,4 @@ print(a)
 
 end = time()
 execution_time = end-start
-print(execution_time)
+print(f"Total time taken:{execution_time}")
